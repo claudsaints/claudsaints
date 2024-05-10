@@ -3,7 +3,7 @@
 </h1>
 <div align="middle">
    <a href="https://github.com/claudsaints"> 
-   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=claudsaints&show_icons=true&theme=neon&include_all_commits=true&count">
+   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=claudsaints&show_icons=true&theme=neon&include_all_commits=true&count&rank_icon=github">
    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudsaints&layout=donut&theme=neon">
 </div>
 <h2 align="middle"> 
