@@ -12,6 +12,6 @@
 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,figma,tailwind,bootstrap,gamemakerstudio,godot,mysql,postgresql,git,linux&perline=4" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,figma,tailwind,bootstrap,gamemakerstudio,godot,mysql,postgresql,git,linux,php,java,react,jquery&perline=4" /><br>
     <img align="middle" src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript" /><br>
 </div>
