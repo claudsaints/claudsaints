@@ -34,7 +34,6 @@
     <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 
 ---
@@ -42,8 +41,6 @@
 ### 🖥️ Backend
 <div align="center">
     <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/-NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -66,8 +63,7 @@
     <img src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Godot-000000?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
