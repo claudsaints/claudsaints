@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E1616&height=120&section=header"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Monoton&size=28&center=true&vCenter=true&width=500&height=70&duration=4000&repeat=false&color=ffffff&lines=Welcome!+👾;Claudio+Dos+Santos+Profile+!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Monoton&size=28&center=true&vCenter=true&width=500&height=70&duration=4000&repeat=false&color=8E1616&lines=Welcome!+ϟ;Claudio+Dos+Santos+Profile+!" />
 </h1>
 <div align="middle"> 
     Hello I'm Claudio D. Saints<br>
@@ -14,8 +14,8 @@
 <div align="middle">
     
    <a href="https://github.com/claudsaints"> 
-   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=claudsaints&show_icons=true&theme=graywhite&include_all_commits=true&count&rank_icon=github">
-   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudsaints&layout=donut&theme=graywhite">
+   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=claudsaints&show_icons=true&theme=shadow_red&include_all_commits=true&count&rank_icon=github&text_color=ffffff">
+   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudsaints&layout=donut&theme=shadow_red&text_color=ffffff">
 </div>
 <h2 align="center" style="font-size: 36px; font-family: 'Arial', sans-serif; color: white; letter-spacing: 2px;">
     Stack and Tools
@@ -66,5 +66,5 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E1616&height=120&section=footer"/>
 
